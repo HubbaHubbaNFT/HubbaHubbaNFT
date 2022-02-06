@@ -6,7 +6,7 @@ contract HubbaHubbaBadge is ERC721 {
     uint256 public tokenCounter;
 
     constructor() public ERC721("HubbaHubba", "HUB") {
-        tokenCounter = 2;
+        tokenCounter = 333;
     }
 
     // return new token id
